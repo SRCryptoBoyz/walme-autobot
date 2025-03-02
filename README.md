@@ -24,9 +24,9 @@ An automated bot for completing Walme airdrop tasks with comprehensive proxy sup
 ## Installation
 
 1. Clone the repository:
-```bash
-git clone https://github.com/airdropinsiders/Walme-Auto-Bot.git
-cd Walme-Auto-Bot
+```bash[
+git clone https://github.com/SRCryptoBoyz/walme-autobot.git
+cd walme-autobot
 ```
 
 2. Install dependencies:
