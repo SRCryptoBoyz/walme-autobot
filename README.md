@@ -8,13 +8,13 @@ An automated bot for completing Walme airdrop tasks with comprehensive proxy sup
 
 ## Features
 
-- 🚀 Automatically completes all available Walme waitlist tasks
-- ✅ Daily check-in for the 7-Day Challenge XP Boost
-- 🔄 Automatic rescheduling for continuous operation 
-- 🌐 Complete proxy support (HTTP, SOCKS4, SOCKS5)
-- 📊 Detailed logging with colorful console output
-- 👥 Multi-account support through tokens.txt
-- 🔄 Tracks completed tasks to avoid duplication
+-  Automatically completes all available Walme waitlist tasks
+-  Daily check-in for the 7-Day Challenge XP Boost
+-  Automatic rescheduling for continuous operation 
+-  Complete proxy support (HTTP, SOCKS4, SOCKS5)
+-  Detailed logging with colorful console output
+-  Multi-account support through tokens.txt
+-  Tracks completed tasks to avoid duplication
 
 ## Requirements
 
@@ -92,7 +92,3 @@ If you encounter issues:
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Disclaimer
-
-This tool is for educational purposes only. Use at your own risk. The developers are not responsible for any account actions resulting from the use of this bot.
