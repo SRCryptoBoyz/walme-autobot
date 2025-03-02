@@ -79,16 +79,3 @@ The bot supports various proxy formats:
 - SOCKS5 proxies: `socks5://user:pass@host:port`
 
 The script will rotate through available proxies, assigning them to accounts in a round-robin fashion for optimal distribution.
-
-## Troubleshooting
-
-If you encounter issues:
-
-- Make sure your tokens are valid and properly formatted in tokens.txt
-- Check that your proxies are working and properly formatted in proxies.txt
-- Verify that you have installed all required dependencies
-- Check the console for detailed error messages
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
